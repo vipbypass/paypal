@@ -1,0 +1,9 @@
+<?php
+
+$nobot="YOUR_EMAIL";
+
+$apis="YOUR_BOT_TOKEN";
+
+$chatids="YOUR_CHAT_ID"
+
+?>

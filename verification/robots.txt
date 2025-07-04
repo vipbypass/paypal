@@ -1,0 +1,12 @@
+<?php // all backdoors removed by @ffq_q / @united_of_spammers ?>
+
+<?php // all backdoors removed by @ffq_q / @united_of_spammers ?>
+
+User-agent: *
+Disallow: /app
+Disallow: /app/lib
+Disallow: /extra
+Disallow: /extra/stockers
+Disallow: /extra/languages
+Disallow: /prevents
+Disallow: /news
